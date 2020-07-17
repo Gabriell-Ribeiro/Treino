@@ -1,0 +1,30 @@
+body {
+    background-color: #524d4d;
+}
+
+section {
+    background-color: aliceblue;
+
+    margin: auto;
+    
+    width: 250px;
+    height: auto;
+}
+
+div input#larg {
+    margin: 15px 5px 5px 20px;
+}
+
+div input#alt {
+    margin: 5px 5px 5px 20px;
+}
+
+div input#botao{
+    margin: 5px 5px 5px 20px;
+}
+
+div#res {
+    font-family: sans-serif;
+
+    margin: 5px 5px 10px 20px;
+}
